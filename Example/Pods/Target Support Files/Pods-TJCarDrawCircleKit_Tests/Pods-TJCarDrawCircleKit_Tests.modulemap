@@ -1,0 +1,6 @@
+framework module Pods_TJCarDrawCircleKit_Tests {
+  umbrella header "Pods-TJCarDrawCircleKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

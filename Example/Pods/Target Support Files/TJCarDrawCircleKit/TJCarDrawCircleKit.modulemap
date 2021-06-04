@@ -1,0 +1,6 @@
+framework module TJCarDrawCircleKit {
+  umbrella header "TJCarDrawCircleKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

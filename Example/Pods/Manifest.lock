@@ -1,0 +1,33 @@
+PODS:
+  - Masonry (1.1.0)
+  - SDWebImage (5.10.3):
+    - SDWebImage/Core (= 5.10.3)
+  - SDWebImage/Core (5.10.3)
+  - TJCarDrawCircleKit (0.1.6):
+    - Masonry
+    - YYModel
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - SDWebImage
+  - TJCarDrawCircleKit (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+    - SDWebImage
+    - YYModel
+
+EXTERNAL SOURCES:
+  TJCarDrawCircleKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SDWebImage: e378178472b735e84b007bfb55514c97948a0598
+  TJCarDrawCircleKit: 773eddfc012207aac7bdab812b5eea253162df1d
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: fe47330b5f43c757be2354be592d767f30f18757
+
+COCOAPODS: 1.10.1

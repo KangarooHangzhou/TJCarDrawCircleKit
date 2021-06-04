@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'TJCarDrawCircleKit_Example' do
+  pod 'TJCarDrawCircleKit', :path => '../'
+  pod 'SDWebImage'
+  target 'TJCarDrawCircleKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
