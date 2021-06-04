@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
   由同基科技基于"TJCarDrawCircleSDK"开发的车型画圈Kit.
                        DESC
-  s.homepage         = 'https://github.com/KangarooHangzhou/TJCarDrawCircleKit.git'
+  s.homepage         = 'https://github.com/KangarooHangzhou/TJCarDrawCircleKit'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'xtzPioneer' => 'xtz_pioneer@icloud.com' }
   s.source           = { :git => 'https://github.com/KangarooHangzhou/TJCarDrawCircleKit.git', :tag => s.version.to_s }
